@@ -50,3 +50,4 @@ httpd.serve_forever()
 <img src = "Capture.PNG">
 
 ## RESULT:
+Thus we have succesfully created a simple web server.
